@@ -1,0 +1,21 @@
+HTTrack3.48-19+htsswf+htsjava launched on Fri, 02 Jan 2015 11:27:11 at http://webserver/wiki/index.php/Trinigy:CI:Premake +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwr2C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://webserver/wiki/index.php/Trinigy:CI:Premake -O1 "C:\PremakeDocu\PremakeDocu" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:27:24	Error: 	"Not Found" (404) at link webserver/wiki/index.php/CompanyWiki:Community_portal (from webserver/wiki/index.php/Trinigy:CI:Premake)
+11:27:24	Error: 	"Not Found" (404) at link webserver/wiki/index.php/CompanyWiki:Current_events (from webserver/wiki/index.php/Trinigy:CI:Premake)
+11:27:24	Warning: 	Link webserver/wiki/index.php/Special:RecentChanges not scanned (follow robots meta tag)
+11:27:24	Error: 	"Not Found" (404) at link webserver/wiki/index.php/Help:Contents (from webserver/wiki/index.php/Trinigy:CI:Premake)
+11:27:24	Warning: 	Link webserver/wiki/index.php/Special:WhatLinksHere/Trinigy:CI:Premake not scanned (follow robots meta tag)
+11:27:24	Warning: 	Link webserver/wiki/index.php/Special:RecentChangesLinked/Trinigy:CI:Premake not scanned (follow robots meta tag)
+11:27:24	Warning: 	Link webserver/wiki/index.php/Special:SpecialPages not scanned (follow robots meta tag)
+11:27:24	Error: 	"Not Found" (404) at link webserver/wiki/index.php/CompanyWiki:Privacy_policy (from webserver/wiki/index.php/Trinigy:CI:Premake)
+11:27:24	Error: 	"Not Found" (404) at link webserver/wiki/index.php/CompanyWiki:About (from webserver/wiki/index.php/Trinigy:CI:Premake)
+11:27:24	Error: 	"Not Found" (404) at link webserver/wiki/index.php/CompanyWiki:General_disclaimer (from webserver/wiki/index.php/Trinigy:CI:Premake)
+
+HTTrack Website Copier/3.48-19 mirror complete in 13 seconds : 25 links scanned, 18 files written (339245 bytes overall) [200598 bytes received at 15430 bytes/sec], 289769 bytes transferred using HTTP compression in 18 files, ratio 28%, 8.6 requests per connection
+(6 errors, 4 warnings, 0 messages)

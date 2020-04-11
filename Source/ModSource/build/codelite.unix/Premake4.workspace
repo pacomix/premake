@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeLite_Workspace Name="Premake4" Database="./Premake4.tags">
+  <Project Name="Premake4" Path="Premake4.project" Active="Yes" />
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Release|x64" Selected="yes">
+      <Project Name="Premake4" ConfigName="Release|x64"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Debug|x64" Selected="yes">
+      <Project Name="Premake4" ConfigName="Debug|x64"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
