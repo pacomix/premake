@@ -1,12 +1,12 @@
 # Premake 4.3 + modifications
 
-This is a old fork of Premake 4.3 with tons of fixes, modifications and addons.
+This is a old fork of Premake 4.3 with tons of fixes, modifications and addons focusing mainly in the Visual Studio 2008/2010/2012 project generators.
 
 ## Premake4Mod
 
 * Premake4Mod is the name given to the tool resulting of the whole changes applied to the original Premake v4.3 tool. This is the tool I use to generate the solution/project files.
 * These modifications serve(s|d) my purposes and by no means Premake 4.3 was forked with any intention to be publicly released at that time.
-* If you are wondering why a Premake 4.3 fork it is that back then (2013) cooperation and the whole GitHub ecosystem wasn't at the same stage it is now so sharing code, making pull requests and so wasn't the way it is now. I sent all my modifications back then to the author and I received a simple answer to submit my modifications to the repository. Since I didn't have that culture at that time I decided to just ignore that absence of interest in getting his tool kind of greatly improved. But now this is different so here you are.
+* If you are wondering why a Premake 4.3 fork in 2023? Reason is that I would like to keep my work somewhere in a "safe" place. Why in 2023 and not back in 2013? Back then (2013) cooperation and the whole GitHub ecosystem wasn't at the same stage it is now so sharing code, making pull requests and so wasn't the way it is now neither I had that culture. I sent all my modifications and changelist back then to the author and I received a simple answer to submit my modifications to the repository. I didn't understand that absence of interest in getting his tool greatly improved with the modifications but well... it's never late :D so here you are.
 
 ## Changelist from original Premake 4.3
 ### General
