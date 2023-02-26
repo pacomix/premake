@@ -1,6 +1,7 @@
 # Premake 4.3 + modifications
 
 This is a old fork of Premake 4.3 with tons of fixes, modifications and addons focusing mainly in the Visual Studio 2008/2010/2012 project generators.
+The most noticeable changes are fixing broken Solution/project configurations (switching among configuration of platform/configuration made VS to crash), full support of PS3/Xbox360/PSVita/WiiU platform and tons of VS only options and flags.
 
 ## Premake4Mod
 
